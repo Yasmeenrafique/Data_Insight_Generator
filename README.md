@@ -1,4 +1,4 @@
-# 🧾 Task  — Data _Insight generation
+## 🧾 Task  — Data _Insight generation
 
 ## 📘 Project Overview
 This task visualizes total product sales data using Python. It demonstrates how to analyze and represent sales information clearly through bar charts. The main goal of this task is to develop data visualization and reporting skills using **Matplotlib** and **Seaborn** libraries.
