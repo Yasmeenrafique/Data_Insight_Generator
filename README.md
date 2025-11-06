@@ -33,6 +33,3 @@ The project creates a bar chart showing **Total Sales by Product**:
 - Different colors are used for each product using Seaborn palettes.
 - The chart includes clear titles and axis labels.
 
-
-plt.ylabel("Sales (in PKR)", fontsize=12)
-plt.show()
